@@ -12,7 +12,7 @@
 
 ###
 
-<p align="left">My name is Arthut Fornaziere. I am a Computer Engineering student passionate about backend development, specialized in Java and Python. Focused on creating robust and scalable solutions, I constantly seek challenges that allow me to expand my knowledge and contribute to innovative projects.</p>
+<p align="left">My name is Arthur Fornaziere. I am a Computer Engineering student passionate about backend development, specialized in Java and Python. Focused on creating robust and scalable solutions, I constantly seek challenges that allow me to expand my knowledge and contribute to innovative projects.</p>
 
 ###
 
